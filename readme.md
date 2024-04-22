@@ -12,4 +12,4 @@ This is a simple expense tracker that allows users to add, delete, and update ex
 
 ---
 
-!('Expense Tracker')[assets/picture.png]
+!(Expense Tracker)[assets/picture.png]
